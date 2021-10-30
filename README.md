@@ -9,7 +9,7 @@ Additionally:
 
 
 
-[DEMO LINK](https://DY-js.github.io/layout_miami/)
+[DEMO LINK](https://DY-js.github.io/miami-landing-page/)
 
 
 
